@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ITXProjectsLibrary">
+</Property><Property Name="Solution File" Value="C:\Univar\ILinkProjectsLibrary\ILinkProjectsLibrary\ITXProjectsLibrary.sln">
+</Property><Property Name="Date" Value="Friday, March 16, 2012">
+</Property><Property Name="Time" Value="6:52 AM">
+</Property></Properties><Event ErrorLevel="0" Project="ITXProjectsLibrary" Source="ITXProjectsLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ITXProjectsLibrary" Source="ITXProjectsLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="..\ConsoleApplication1\ConsoleApplication1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleApplication1" Source="..\ConsoleApplication1\ConsoleApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ITXProjectsLibrary.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ITXProjectsLibrary.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ITXProjectsLibrary" Source="ITXProjectsLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleApplication1" Source="..\ConsoleApplication1\ConsoleApplication1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

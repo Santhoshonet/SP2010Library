@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="5a93a192-1538-48ec-a5bd-e63bed814ab0" Timestamp="633559544920000000" XmlDocIndexTimestamp="633559544920000000" />
+  <Assembly Name="Microsoft.Office.Project.Server.Library, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" Image="eb8303f9-f220-411e-bc89-ee478ab65ac8" Timestamp="633235064140000000" />
+  <Assembly Name="Microsoft.Office.Server, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" Image="ce57758f-9e47-4df2-bfae-1b6ce8638e26" Timestamp="633235049460000000" />
+  <Assembly Name="Microsoft.SharePoint, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" Image="645303c8-9da8-473c-815e-829fa8db8dfa" Timestamp="633306742940000000" XmlDocIndexTimestamp="633352983840000000" />
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="8b903f59-5817-4a40-879a-52c548af79a7" Timestamp="633529518480000000" XmlDocIndexTimestamp="633489841300000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="2485513c-226f-413c-a572-fff08b158085" Timestamp="633529518480000000" XmlDocIndexTimestamp="633489841300000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="b555e415-b665-45b7-95f2-89d2186d5d35" Timestamp="633529518480000000" XmlDocIndexTimestamp="633489841300000000" />
+</Assemblies>

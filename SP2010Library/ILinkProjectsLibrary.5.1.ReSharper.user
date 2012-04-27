@@ -1,0 +1,142 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Feature.cs" caret="1811" fromTop="10" />
+      <File id="915D4D74-55CF-418F-A588-F15F200E46D0/f:Program.cs" caret="863" fromTop="16" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="1796" fromTop="57" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:DocumentLibrary.cs" caret="7234" fromTop="20" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="0" fromTop="0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="0" fromTop="0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="9118" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="9118" fromTop="30" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="9082" fromTop="30" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="8928" fromTop="24" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="4443" fromTop="20" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="89" fromTop="4" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="5408" fromTop="17" />
+      <File id="915D4D74-55CF-418F-A588-F15F200E46D0/f:Program.cs" caret="91" fromTop="4" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="8794" fromTop="40" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="8794" fromTop="17" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="8794" fromTop="24" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="8794" fromTop="15" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="6359" fromTop="21" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="4807" fromTop="13" />
+      <File id="915D4D74-55CF-418F-A588-F15F200E46D0/f:Program.cs" caret="159" fromTop="8" />
+      <File id="915D4D74-55CF-418F-A588-F15F200E46D0/f:Program.cs" caret="1223" fromTop="17" />
+      <File id="915D4D74-55CF-418F-A588-F15F200E46D0/f:Program.cs" caret="1733" fromTop="24" />
+      <File id="915D4D74-55CF-418F-A588-F15F200E46D0/f:Program.cs" caret="2243" fromTop="29" />
+      <File id="915D4D74-55CF-418F-A588-F15F200E46D0/f:Program.cs" caret="2168" fromTop="28" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="46533" fromTop="21" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="416" fromTop="4" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="9443" fromTop="121" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="0" fromTop="0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="330" fromTop="11" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="1906" fromTop="22" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="6085" fromTop="27" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="6097" fromTop="29" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="15216" fromTop="41" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:DocumentLibrary.cs" caret="5841" fromTop="20" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:DocumentLibrary.cs" caret="8790" fromTop="42" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:DocumentLibrary.cs" caret="7372" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="1" />
+      <Item value="var" priority="3" />
+      <Item value="new" priority="3" />
+      <Item value="SPSite`0" priority="1" />
+      <Item value="ILinkProjectsLibrary" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="DocumentLibrary`0" priority="0" />
+      <Item value="Templates`0" priority="0" />
+      <Item value="testSite" priority="0" />
+      <Item value="site" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="SPCopy" priority="0" />
+      <Item value="Copy`0" priority="0" />
+      <Item value="copy" priority="4" />
+      <Item value="Copy" priority="0" />
+      <Item value="remoteSiteURL" priority="0" />
+      <Item value="true" priority="3" />
+      <Item value="siteUrl" priority="0" />
+      <Item value="remoteSiteUrl" priority="0" />
+      <Item value="SPListWebSvc" priority="0" />
+      <Item value="s" priority="2" />
+      <Item value="byte" priority="1" />
+      <Item value="bytes" priority="2" />
+      <Item value="response" priority="0" />
+      <Item value="SByte`0" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="downloadUrl" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="tempFilename" priority="0" />
+      <Item value="AllowAutoRedirect" priority="0" />
+      <Item value="noeSiteUrl" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ILinkProjectsLibrary.Templates">
+      <Item value="CopyListTemplateAcrossSites`0" priority="0" />
+      <Item value="CopyAllListTemplateAcrossSites`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ILinkProjectsLibrary.SPCopy.Copy">
+      <Item value="Url" priority="0" />
+      <Item value="UseDefaultCredentials" priority="0" />
+      <Item value="AllowAutoRedirect" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebResponse">
+      <Item value="GetResponseStream`0" priority="0" />
+      <Item value="ContentLength" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPList">
+      <Item value="ParentWeb" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="AllowUnsafeUpdates" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="GetFolderPath`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment+SpecialFolder">
+      <Item value="ApplicationData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Second" priority="0" />
+      <Item value="Minute" priority="0" />
+      <Item value="Hour" priority="0" />
+      <Item value="Day" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

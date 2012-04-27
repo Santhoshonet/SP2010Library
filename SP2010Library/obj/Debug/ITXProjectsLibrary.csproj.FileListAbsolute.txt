@@ -1,0 +1,6 @@
+C:\Documents and Settings\Administrator\Desktop\ITXProjectsLibrary\ITXProjectsLibrary\obj\Debug\ITXProjectsLibrary.pdb
+C:\Documents and Settings\Administrator\Desktop\ITXProjectsLibrary\ITXProjectsLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ITXProjectsLibrary\ITXProjectsLibrary\bin\Debug\ITXProjectsLibrary.dll.config
+C:\Documents and Settings\Administrator\Desktop\ITXProjectsLibrary\ITXProjectsLibrary\bin\Debug\ITXProjectsLibrary.dll
+C:\Documents and Settings\Administrator\Desktop\ITXProjectsLibrary\ITXProjectsLibrary\bin\Debug\ITXProjectsLibrary.pdb
+C:\Documents and Settings\Administrator\Desktop\ITXProjectsLibrary\ITXProjectsLibrary\obj\Debug\ITXProjectsLibrary.dll

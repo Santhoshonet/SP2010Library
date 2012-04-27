@@ -1,0 +1,62 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="webPart" priority="0" />
+      <Item value="WebParts`0" priority="1" />
+      <Item value="web" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="174" fromTop="7" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:DocumentLibrary.cs" caret="6455" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Feature.cs" caret="0" fromTop="0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:MailTemplate.cs" caret="33" fromTop="2" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="0" fromTop="0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="0" fromTop="0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="9297" fromTop="232" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="9297" fromTop="237" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="44526" fromTop="20" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:WebPart.cs" caret="149" fromTop="7" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="44526" fromTop="798" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="18652" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="27928" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="23562" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Templates.cs" caret="9125" fromTop="187" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="174" fromTop="7" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:DocumentLibrary.cs" caret="9986" fromTop="230" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="38683" fromTop="573" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="2890" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="3543" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="4011" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="20240" fromTop="13" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="21267" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="5436" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Feature.cs" caret="5175" fromTop="113" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Feature.cs" caret="238" fromTop="9" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Feature.cs" caret="1794" fromTop="12" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:MailTemplate.cs" caret="33" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

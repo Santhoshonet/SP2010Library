@@ -1,0 +1,713 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:MailTemplate.cs" caret="281" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/d:Web References/d:WebSvcStatusing/f:Reference.cs" caret="0" scrollPosition="0|0" />
+      <File id="915D4D74-55CF-418F-A588-F15F200E46D0/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ProjectCheckedOut.cs" caret="228" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ProjectDerived.cs" caret="1747" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ReadRBSValues.cs" caret="0" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ResourceDerived.cs" caret="1668" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:StatusingDerived.cs" caret="1149" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:TimesheetDerived.cs" caret="922" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="0" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ProjectDerived.cs" caret="725" scrollPosition="0|9" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ProjectDerived.cs" caret="346" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ProjectDerived.cs" caret="493" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ProjectDerived.cs" caret="1747" scrollPosition="7|38" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ResourceDerived.cs" caret="2572" scrollPosition="0|38" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ResourceDerived.cs" caret="1275" scrollPosition="0|26" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ResourceDerived.cs" caret="350" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ResourceDerived.cs" caret="573" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:ResourceDerived.cs" caret="806" scrollPosition="0|9" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:StatusingDerived.cs" caret="404" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:StatusingDerived.cs" caret="628" scrollPosition="0|9" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:StatusingDerived.cs" caret="862" scrollPosition="0|9" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:StatusingDerived.cs" caret="2844" scrollPosition="0|59" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:StatusingDerived.cs" caret="1333" scrollPosition="0|29" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:TimesheetDerived.cs" caret="1848" scrollPosition="0|29" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:TimesheetDerived.cs" caret="538" scrollPosition="0|0" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="1002" scrollPosition="0|15" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="118178" scrollPosition="0|18" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="34916" scrollPosition="0|87" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="34790" scrollPosition="0|87" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="36612" scrollPosition="0|103" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="31195" scrollPosition="0|87" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="77231" scrollPosition="0|141" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="77834" scrollPosition="0|141" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="78301" scrollPosition="0|144" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="78765" scrollPosition="0|144" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="79414" scrollPosition="0|144" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="79920" scrollPosition="0|144" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Deployment.cs" caret="31259" scrollPosition="0|18" />
+      <File id="AA551B04-6AAA-489B-8F26-60FA80ADD5AD/f:Utilities.cs" caret="38568" scrollPosition="47|91" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory />
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ReadRBSValues" priority="4" />
+      <Item value="string" priority="50" />
+      <Item value="true" priority="11" />
+      <Item value="MailBody" priority="0" />
+      <Item value="Guid" priority="43" />
+      <Item value="TRow" priority="0" />
+      <Item value="return" priority="13" />
+      <Item value="break" priority="6" />
+      <Item value="RBSLevelGuid" priority="1" />
+      <Item value="SPUserCollection" priority="0" />
+      <Item value="collection" priority="0" />
+      <Item value="List" priority="9" />
+      <Item value="List&lt;string&gt;" priority="2" />
+      <Item value="Exception" priority="7" />
+      <Item value="OutputList" priority="1" />
+      <Item value="Row" priority="2" />
+      <Item value="MemRow" priority="1" />
+      <Item value="project" priority="0" />
+      <Item value="GetResourceUidFromName" priority="0" />
+      <Item value="UserName" priority="0" />
+      <Item value="Resource" priority="2" />
+      <Item value="resource" priority="0" />
+      <Item value="resource_Svc" priority="2" />
+      <Item value="project_Svc" priority="1" />
+      <Item value="public" priority="16" />
+      <Item value="GetResourceAssignedProjectList" priority="0" />
+      <Item value="ResUid" priority="0" />
+      <Item value="Boolean" priority="2" />
+      <Item value="ResourceUID" priority="7" />
+      <Item value="if" priority="26" />
+      <Item value="rds" priority="3" />
+      <Item value="else" priority="3" />
+      <Item value="false" priority="13" />
+      <Item value="CustomFields" priority="3" />
+      <Item value="CustomFieldDataSet" priority="5" />
+      <Item value="ProjectDataSet" priority="4" />
+      <Item value="Project_Svc" priority="2" />
+      <Item value="foreach" priority="8" />
+      <Item value="projectRow" priority="5" />
+      <Item value="ProjectUID" priority="1" />
+      <Item value="DataStoreEnum" priority="2" />
+      <Item value="DateTime" priority="0" />
+      <Item value="ProjectCheckedOut" priority="3" />
+      <Item value="new" priority="14" />
+      <Item value="List&lt;ProjectCheckedOut&gt;" priority="0" />
+      <Item value="OutPutList" priority="1" />
+      <Item value="projectCheckedOut" priority="0" />
+      <Item value="NewItem" priority="3" />
+      <Item value="DataTable" priority="5" />
+      <Item value="dataTable" priority="4" />
+      <Item value="DataRow" priority="2" />
+      <Item value="Project_UID" priority="0" />
+      <Item value="PSLibrary" priority="6" />
+      <Item value="ProjectDataType" priority="1" />
+      <Item value="using" priority="7" />
+      <Item value="Microsoft" priority="2" />
+      <Item value="Office" priority="2" />
+      <Item value="Project.Server" priority="1" />
+      <Item value="Library" priority="3" />
+      <Item value="ResourceList" priority="0" />
+      <Item value="projectResourceRow" priority="1" />
+      <Item value="try" priority="3" />
+      <Item value="null" priority="14" />
+      <Item value="ICredentials" priority="1" />
+      <Item value="ResultTable" priority="3" />
+      <Item value="projectDataSet" priority="0" />
+      <Item value="Project" priority="2" />
+      <Item value="Project_svc" priority="0" />
+      <Item value="Siteurl" priority="0" />
+      <Item value="AdminCred" priority="0" />
+      <Item value="bool" priority="11" />
+      <Item value="permission" priority="0" />
+      <Item value="newRow" priority="1" />
+      <Item value="Project_CategoryPermissionName" priority="0" />
+      <Item value="WSSWebSvcAuthentication" priority="0" />
+      <Item value="LoginResult" priority="2" />
+      <Item value="loginResult" priority="3" />
+      <Item value="Authentication" priority="1" />
+      <Item value="authentication" priority="5" />
+      <Item value="ConsoleApplication1" priority="0" />
+      <Item value="AuthenticationMode" priority="0" />
+      <Item value="System" priority="2" />
+      <Item value="NetPipeStyleUriParser" priority="2" />
+      <Item value="NetworkCredential" priority="0" />
+      <Item value="SPSite" priority="10" />
+      <Item value="catch" priority="4" />
+      <Item value="Console" priority="6" />
+      <Item value="ex" priority="0" />
+      <Item value="SPWeb" priority="5" />
+      <Item value="in" priority="10" />
+      <Item value="Site" priority="6" />
+      <Item value="web" priority="6" />
+      <Item value="int" priority="2" />
+      <Item value="static" priority="2" />
+      <Item value="void" priority="5" />
+      <Item value="SPSecurity" priority="2" />
+      <Item value="delegate" priority="2" />
+      <Item value="ReturnStatus" priority="0" />
+      <Item value="Status" priority="5" />
+      <Item value="Description" priority="2" />
+      <Item value="Web" priority="9" />
+      <Item value="IsAlreadyFound" priority="1" />
+      <Item value="list" priority="6" />
+      <Item value="Utilities" priority="6" />
+      <Item value="RemoveAllWebParts" priority="0" />
+      <Item value="UserControlLayoutsPath" priority="0" />
+      <Item value="WebPartProperyName" priority="0" />
+      <Item value="SPList" priority="0" />
+      <Item value="CreateDocumentLibrary" priority="0" />
+      <Item value="DocumentName" priority="1" />
+      <Item value="Item" priority="2" />
+      <Item value="CreateWebPartPage" priority="0" />
+      <Item value="PageName" priority="0" />
+      <Item value="ShowInQuickLaunch" priority="1" />
+      <Item value="ListName" priority="1" />
+      <Item value="private" priority="2" />
+      <Item value="Type" priority="0" />
+      <Item value="SPListCategoryType" priority="0" />
+      <Item value="SPListTemplateType" priority="0" />
+      <Item value="Style" priority="0" />
+      <Item value="WaitForExit" priority="0" />
+      <Item value="VirtualDirectories" priority="3" />
+      <Item value="virtualDirectories" priority="3" />
+      <Item value="List&lt;VirtualDirectories&gt;" priority="0" />
+      <Item value="Convert" priority="0" />
+      <Item value="Dr" priority="0" />
+      <Item value="Output" priority="1" />
+      <Item value="ApplicationIdentity" priority="0" />
+      <Item value="ProcessWindowStyle" priority="0" />
+      <Item value="Title" priority="4" />
+      <Item value="IsExternal" priority="1" />
+      <Item value="Url" priority="2" />
+      <Item value="ParentHeading" priority="0" />
+      <Item value="node" priority="6" />
+      <Item value="enum" priority="0" />
+      <Item value="position" priority="0" />
+      <Item value="Position" priority="1" />
+      <Item value="QuickLaunchPosition" priority="2" />
+      <Item value="OverWrite" priority="0" />
+      <Item value="PositionIndex" priority="4" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="1" />
+      <Item value="navigation" priority="1" />
+      <Item value="SPNavigationNode" priority="2" />
+      <Item value="PreviousNode" priority="0" />
+      <Item value="HeaderTitle" priority="1" />
+      <Item value="nodechild" priority="1" />
+      <Item value="customFields" priority="2" />
+      <Item value="byte" priority="1" />
+      <Item value="MD_ENT_TYPE_UID" priority="0" />
+      <Item value="MD_AGGREGATION_TYPE_ENUM" priority="0" />
+      <Item value="LookupTableDataSet" priority="12" />
+      <Item value="lookupTableDataSet" priority="11" />
+      <Item value="cfFilter" priority="1" />
+      <Item value="lookupTablesRow" priority="12" />
+      <Item value="LookupTable_Svc" priority="0" />
+      <Item value="LookupTableName" priority="4" />
+      <Item value="lookupTableTreesRow" priority="7" />
+      <Item value="LookupTableTreesRow" priority="0" />
+      <Item value="Values" priority="0" />
+      <Item value="Str" priority="0" />
+      <Item value="LookupTable" priority="2" />
+      <Item value="lookupTable" priority="0" />
+      <Item value="DefaultLookupValue" priority="1" />
+      <Item value="tblRow" priority="0" />
+      <Item value="lookupTableMasksRow" priority="4" />
+      <Item value="TblUid" priority="0" />
+      <Item value="LookupTables" priority="2" />
+      <Item value="customFieldsRow_new" priority="0" />
+      <Item value="MD_PROP_GRAPHICAL_INDICATOR" priority="0" />
+      <Item value="guid" priority="1" />
+      <Item value="ResultList" priority="0" />
+      <Item value="MyGuid" priority="0" />
+      <Item value="ITXProjectsLibrary" priority="1" />
+      <Item value="WebSvcSecurity" priority="0" />
+      <Item value="Security" priority="2" />
+      <Item value="Path" priority="0" />
+      <Item value="FolderPortOrName" priority="0" />
+      <Item value="path" priority="0" />
+      <Item value="Uri" priority="0" />
+      <Item value="DeleteLink" priority="1" />
+      <Item value="zone" priority="0" />
+      <Item value="DLLFilePath" priority="0" />
+      <Item value="EventName" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Deployment" priority="0" />
+      <Item value="Events" priority="0" />
+      <Item value="ClassName" priority="0" />
+      <Item value="CredentialCache" priority="1" />
+      <Item value="projectList" priority="1" />
+      <Item value="continue" priority="1" />
+      <Item value="LookupTableDS_Dest" priority="0" />
+      <Item value="ResourceDataSet" priority="4" />
+      <Item value="picLib" priority="0" />
+      <Item value="List_To_check" priority="0" />
+      <Item value="manager" priority="1" />
+      <Item value="reader" priority="0" />
+      <Item value="RootNode" priority="1" />
+      <Item value="MailTemp" priority="0" />
+      <Item value="wic" priority="0" />
+      <Item value="WebConfigFilePath" priority="0" />
+      <Item value="WebSvcWssInterop" priority="0" />
+      <Item value="WssInterop" priority="0" />
+      <Item value="wssinterop" priority="0" />
+      <Item value="WssServersDataSet" priority="0" />
+      <Item value="serversRow" priority="1" />
+      <Item value="WssServersRow" priority="0" />
+      <Item value="output" priority="0" />
+      <Item value="var" priority="4" />
+      <Item value="readrbsvalues" priority="0" />
+      <Item value="site" priority="3" />
+      <Item value="ProjectDatasets" priority="0" />
+      <Item value="Res" priority="1" />
+      <Item value="ds" priority="2" />
+      <Item value="row" priority="1" />
+      <Item value="security" priority="1" />
+      <Item value="SecurityOrganizationalPermissionsDataSet" priority="0" />
+      <Item value="List&lt;Guid&gt;" priority="0" />
+      <Item value="rbsValues" priority="3" />
+      <Item value="CurrentLevel" priority="0" />
+      <Item value="credentials" priority="1" />
+      <Item value="CF" priority="3" />
+      <Item value="LookupTbl" priority="4" />
+      <Item value="Resource_UID" priority="2" />
+      <Item value="LookupTableUID" priority="3" />
+      <Item value="Server" priority="0" />
+      <Item value="CustomField" priority="2" />
+      <Item value="EntityCollection" priority="0" />
+      <Item value="AllowAutoRedirect" priority="0" />
+      <Item value="UseDefaultCredentials" priority="0" />
+      <Item value="customFieldDataSet" priority="1" />
+      <Item value="customFieldsRow" priority="4" />
+      <Item value="LookupFldDS" priority="0" />
+      <Item value="LooktableUID" priority="1" />
+      <Item value="Office.Project.Server" priority="0" />
+      <Item value="OutPutProjectTable" priority="1" />
+      <Item value="new_row" priority="0" />
+      <Item value="ResourceActiveFilter" priority="2" />
+      <Item value="Resource_Svc" priority="0" />
+      <Item value="WebSvcResource" priority="0" />
+      <Item value="OutPutUID" priority="0" />
+      <Item value="resourcesRow" priority="1" />
+      <Item value="ColumnName" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="batchExecute" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="CustFldDS" priority="0" />
+      <Item value="CustomFieldName" priority="0" />
+      <Item value="lookuptableuid" priority="1" />
+      <Item value="Operation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcResource.Resource">
+      <Item value="UseDefaultCredentials" priority="0" />
+      <Item value="Url" priority="0" />
+      <Item value="ReadResource" priority="0" />
+      <Item value="ReadUserList" priority="2" />
+      <Item value="ReadResourceAuthorization" priority="0" />
+      <Item value="AllowAutoRedirect" priority="2" />
+      <Item value="Credentials" priority="0" />
+      <Item value="GetCurrentUserUid" priority="0" />
+      <Item value="ReadResources" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcCustomFields.CustomFields">
+      <Item value="UseDefaultCredentials" priority="0" />
+      <Item value="AllowAutoRedirect" priority="0" />
+      <Item value="ReadCustomFields" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcLookupTable.LookupTable">
+      <Item value="UseDefaultCredentials" priority="0" />
+      <Item value="ReadLookupTables" priority="2" />
+      <Item value="CreateLookupTables" priority="0" />
+      <Item value="AllowAutoRedirect" priority="0" />
+      <Item value="ReadLookupTablesByUids" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcResource.ResourceDataSet+ResourcesRow">
+      <Item value="WRES_EMAIL" priority="3" />
+      <Item value="RES_UID" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Mail.MailMessage">
+      <Item value="Body" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower" priority="22" />
+      <Item value="Trim" priority="7" />
+      <Item value="Replace" priority="0" />
+      <Item value="Length" priority="1" />
+      <Item value="IndexOf" priority="0" />
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcLookupTable.LookupTableDataSet+LookupTableTreesRow">
+      <Item value="LT_PARENT_STRUCT_UID" priority="0" />
+      <Item value="LookupTablesRow" priority="0" />
+      <Item value="LT_UID" priority="2" />
+      <Item value="LT_VALUE_TEXT" priority="2" />
+      <Item value="LT_STRUCT_UID" priority="1" />
+      <Item value="LT_VALUE_FULL" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="Empty" priority="7" />
+      <Item value="NewGuid" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcResource.ResourceDataSet+ResourceCustomFieldsRow">
+      <Item value="IsCODE_VALUENull" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcSecurity.SecurityGroupsDataSet+GroupMembersRow">
+      <Item value="RES_UID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcProject.Project">
+      <Item value="Url" priority="1" />
+      <Item value="ReadProjectList" priority="1" />
+      <Item value="ReadProjectEntities" priority="0" />
+      <Item value="ReadProjectStatus" priority="1" />
+      <Item value="Credentials" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcResource.ResourceDataSet">
+      <Item value="Resources" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcResource.ResourceDataSet+ResourcesDataTable">
+      <Item value="RES_UIDColumn" priority="2" />
+      <Item value="Rows" priority="1" />
+      <Item value="RES_NAMEColumn" priority="1" />
+      <Item value="WRES_EMAILColumn" priority="1" />
+      <Item value="Columns" priority="0" />
+      <Item value="WRES_ACCOUNTColumn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="ColumnName" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="4" />
+      <Item value="Add" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcCustomFields.CustomFieldDataSet">
+      <Item value="CustomFields" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcCustomFields.CustomFieldDataSet+CustomFieldsDataTable">
+      <Item value="TableName" priority="0" />
+      <Item value="Rows" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.WebSvcProject.ProjectDataSet">
+      <Item value="ProjectRow" priority="0" />
+      <Item value="ProjectResourceRow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcProject.ProjectDataSet">
+      <Item value="Project" priority="0" />
+      <Item value="ProjectResource" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcProject.ProjectDataSet+ProjectDataTable">
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcProject.ProjectDataSet+ProjectRow">
+      <Item value="PROJ_UID" priority="4" />
+      <Item value="PROJ_NAME" priority="3" />
+      <Item value="PROJ_CHECKOUTDATE" priority="0" />
+      <Item value="PROJ_CHECKOUTBY" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.WebSvcProject.DataStoreEnum">
+      <Item value="WorkingStore" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcProject.ProjectDataSet+ProjectResourceRow">
+      <Item value="RES_ACCRUE_AT" priority="0" />
+      <Item value="RES_UID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.ProjectCheckedOut">
+      <Item value="Name" priority="0" />
+      <Item value="UID" priority="0" />
+      <Item value="CheckOutAt" priority="0" />
+      <Item value="CheckedOutBy_UID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Columns" priority="2" />
+      <Item value="Rows" priority="5" />
+      <Item value="NewRow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
+      <Item value="Add" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.ProjectDataType">
+      <Item value="Project" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcProject.ProjectDataSet+ProjectResourceDataTable">
+      <Item value="FindByRES_UIDPROJ_UID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcSecurity.Security">
+      <Item value="UseDefaultCredentials" priority="1" />
+      <Item value="Url" priority="0" />
+      <Item value="ReadOrganizationalPermissions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WSSWebSvcAuthentication.Authentication">
+      <Item value="Login" priority="0" />
+      <Item value="UseDefaultCredentials" priority="1" />
+      <Item value="Mode" priority="0" />
+      <Item value="Credentials" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="6" />
+      <Item value="ReadKey" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WSSWebSvcAuthentication.LoginResult">
+      <Item value="CookieName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WSSWebSvcAuthentication.AuthenticationMode">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPSite">
+      <Item value="AllWebs" priority="3" />
+      <Item value="Url" priority="6" />
+      <Item value="WebApplication" priority="0" />
+      <Item value="RootWeb" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPWeb">
+      <Item value="Title" priority="0" />
+      <Item value="Update" priority="0" />
+      <Item value="Url" priority="2" />
+      <Item value="ID" priority="1" />
+      <Item value="Lists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.Project">
+      <Item value="ProjectType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.Project+ProjectType">
+      <Item value="Project" priority="1" />
+      <Item value="MasterProject" priority="1" />
+      <Item value="InsertedProject" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPSecurity">
+      <Item value="RunWithElevatedPrivileges" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPListItem">
+      <Item value="Url" priority="0" />
+      <Item value="DisplayName" priority="0" />
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPList">
+      <Item value="OnQuickLaunch" priority="0" />
+      <Item value="Update" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="RootFolder" priority="0" />
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SharePoint.SPListTemplateType">
+      <Item value="GenericList" priority="1" />
+      <Item value="DocumentLibrary" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VirtualDirectories">
+      <Item value="Port" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.VirtualDirectories">
+      <Item value="Path" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.ProcessWindowStyle">
+      <Item value="Hidden" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Navigation.SPNavigationNode">
+      <Item value="Children" priority="4" />
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.QuickLaunchPosition">
+      <Item value="AddAtLast" priority="0" />
+      <Item value="None" priority="0" />
+      <Item value="AddAtFist" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Navigation.SPNavigationNodeCollection">
+      <Item value="AddAsFirst" priority="1" />
+      <Item value="Count" priority="1" />
+      <Item value="Add" priority="1" />
+      <Item value="AddAsLast" priority="0" />
+      <Item value="Delete" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcLookupTable.LookupTableDataSet">
+      <Item value="LookupTables" priority="11" />
+      <Item value="LookupTableTrees" priority="1" />
+      <Item value="LookupTableMasks" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcLookupTable.LookupTableDataSet+LookupTablesDataTable">
+      <Item value="TableName" priority="1" />
+      <Item value="LT_UIDColumn" priority="4" />
+      <Item value="LT_NAMEColumn" priority="4" />
+      <Item value="Rows" priority="3" />
+      <Item value="NewLookupTablesRow" priority="0" />
+      <Item value="AddLookupTablesRow" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="LT_CHECKOUTBYColumn" priority="0" />
+      <Item value="LT_CHECKOUTDATEColumn" priority="0" />
+      <Item value="LT_FILL_ALL_LEVELSColumn" priority="0" />
+      <Item value="LT_PRIMARY_LCIDColumn" priority="0" />
+      <Item value="LT_SORT_ORDER_ENUMColumn" priority="0" />
+      <Item value="MOD_DATEColumn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Project.Server.Library.Filter">
+      <Item value="GetXml" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.WebSvcLookupTable.LookupTableDataSet">
+      <Item value="LookupTablesRow" priority="3" />
+      <Item value="LookupTableTreesRow" priority="1" />
+      <Item value="LookupTableMasksRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcLookupTable.LookupTableDataSet+LookupTablesRow">
+      <Item value="LT_NAME" priority="2" />
+      <Item value="LT_UID" priority="1" />
+      <Item value="LT_PRIMARY_LCID" priority="0" />
+      <Item value="LT_SORT_ORDER_ENUM" priority="1" />
+      <Item value="GetLookupTableTreesRows" priority="1" />
+      <Item value="GetLookupTableMasksRows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcLookupTable.LookupTableDataSet+LookupTableTreesDataTable">
+      <Item value="NewLookupTableTreesRow" priority="0" />
+      <Item value="AddLookupTableTreesRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcCustomFields.CustomFieldDataSet+CustomFieldsRow">
+      <Item value="MD_LOOKUP_TABLE_UID" priority="1" />
+      <Item value="MD_PROP_DEFAULT_VALUE" priority="0" />
+      <Item value="MD_PROP_GRAPHICAL_INDICATOR" priority="0" />
+      <Item value="MD_PROP_NAME" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcLookupTable.LookupTableDataSet+LookupTableMasksDataTable">
+      <Item value="NewLookupTableMasksRow" priority="0" />
+      <Item value="AddLookupTableMasksRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcLookupTable.LookupTableDataSet+LookupTableMasksRow">
+      <Item value="LT_UID" priority="0" />
+      <Item value="LT_MASK_VALUE_SEPARATOR" priority="0" />
+      <Item value="LT_MASK_STRUCT_LEVEL" priority="0" />
+      <Item value="LT_MASK_STRUCT_TYPE_ENUM" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.LookupTables">
+      <Item value="MaskSequence" priority="0" />
+      <Item value="SortOrder" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.LookupTables+MaskSequence">
+      <Item value="NUMBER_TEXT" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.LookupTables+SortOrder">
+      <Item value="Ascending" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Administration.SPWebApplication">
+      <Item value="IisSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.Administration.SPIisSettings">
+      <Item value="Path" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="FullName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcEvents.Events">
+      <Item value="AllowAutoRedirect" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SharePoint.SPFolder">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.CredentialCache">
+      <Item value="DefaultCredentials" priority="0" />
+      <Item value="DefaultNetworkCredentials" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlTextReader">
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="Read" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcWssInterop.WssInterop">
+      <Item value="AllowAutoRedirect" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.WebSvcWssInterop.WssServersDataSet">
+      <Item value="WssServersRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.ReadRBSValues">
+      <Item value="GetRBSLevelname" priority="0" />
+      <Item value="GetBottomLevelResouceUIDs" priority="0" />
+      <Item value="CreateRBSCustomField" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.WebSvcResource.ResourceDataSet">
+      <Item value="ResourcesRow" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.WebSvcSecurity.SecurityOrganizationalPermissionsDataSet">
+      <Item value="SecurityOrganizationalPermissionsDataTable" priority="0" />
+      <Item value="SecurityOrganizationalPermissionsRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcSecurity.SecurityOrganizationalPermissionsDataSet">
+      <Item value="SecurityOrganizationalPermissions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcSecurity.SecurityOrganizationalPermissionsDataSet+SecurityOrganizationalPermissionsDataTable">
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ITXProjectsLibrary.WebSvcSecurity.SecurityOrganizationalPermissionsDataSet+SecurityOrganizationalPermissionsRow">
+      <Item value="WSEC_ACTION_NAME" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.Utilities">
+      <Item value="IsCustomFieldFound" priority="0" />
+      <Item value="CreateCustomField" priority="0" />
+      <Item value="IsLookupTableFound" priority="0" />
+      <Item value="CreateLookupTable" priority="0" />
+      <Item value="GetLookupFieldUID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.WebSvcCustomFields.CustomFieldDataSet">
+      <Item value="CustomFieldsRow" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.CustomField">
+      <Item value="SummaryRollup" priority="0" />
+      <Item value="LocalType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.CustomField+SummaryRollup">
+      <Item value="None" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.CustomField+LocalType">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.EntityCollection">
+      <Item value="Entities" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Project.Server.Library.EntityCollection">
+      <Item value="TaskEntity" priority="0" />
+      <Item value="ResourceEntity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Project.Server.Library.Entity">
+      <Item value="UniqueId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Project.Server.Library.ResourceActiveFilter">
+      <Item value="Active" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ITXProjectsLibrary.WebSvcResource.ResourceActiveFilter">
+      <Item value="Active" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

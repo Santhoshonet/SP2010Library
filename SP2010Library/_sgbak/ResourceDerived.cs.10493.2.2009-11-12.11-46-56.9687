@@ -1,0 +1,69 @@
+﻿using System;
+using System.Net;
+using ITXProjectsLibrary.WebSvcResource;
+using Microsoft.SharePoint;
+using PSLibrary = Microsoft.Office.Project.Server.Library;
+namespace ITXProjectsLibrary
+{
+   public class ResourceDerived :Resource
+    {
+        public ResourceDerived(SPSite Site)
+        {
+            SetSSPURL(Site);
+            this.UseDefaultCredentials = true;
+        }
+        public ResourceDerived(string SiteUrl,ICredentials Credentials)
+        {
+            using (SPSite Site = new SPSite(SiteUrl))
+            {
+                SetSSPURL(Site);
+            }
+            this.Credentials = Credentials;
+        }
+        public ResourceDerived(string SiteUrl)
+        {
+            using (SPSite Site = new SPSite(SiteUrl))
+            {
+                SetSSPURL(Site);
+            }
+            this.UseDefaultCredentials = true;
+        }
+        public ResourceDerived(SPSite Site, ICredentials Credentials)
+        {
+            SetSSPURL(Site);
+            this.Credentials = Credentials;
+        }
+        private void SetSSPURL(SPSite Site)
+        {
+            string sspName = Utilities.GetSSPName(Site);
+            SSPURL = "http://" + Site.HostName + ":56737//" + sspName + "/PSI/Resource.asmx";
+            this.Url = SSPURL;
+        }
+        private String contextString = String.Empty;
+        private string SSPURL;
+        protected override WebRequest GetWebRequest(Uri uri)
+        {
+            WebRequest webRequest = base.GetWebRequest(uri);
+            if (contextString != String.Empty)
+            {
+                webRequest.UseDefaultCredentials = true;
+                bool isImpersonating = (System.Security.Principal.WindowsIdentity.GetCurrent(true) != null);
+                webRequest.Credentials = CredentialCache.DefaultCredentials;
+                webRequest.Headers.Add("PjAuth", contextString);
+                webRequest.Headers.Add("ForwardedFrom", "/_vti_bin/psi/resource.asmx");
+                webRequest.PreAuthenticate = true;
+            }
+            return webRequest;
+        }
+        public void SetImpersonationContext(bool isWindowsUser, String userAccount, Guid userGuid, Guid trackingGuid, Guid siteId, String lcid)
+        {
+            contextString = GetImpersonationContext(isWindowsUser, userAccount, userGuid, trackingGuid, siteId, lcid);
+        }
+        private static String GetImpersonationContext(bool isWindowsUser, String userAccount,Guid userGuid, Guid trackingGuid, Guid siteId, String lcid)
+        {
+            PSLibrary.PSContextInfo contextInfo =  new PSLibrary.PSContextInfo(isWindowsUser, userAccount, userGuid, trackingGuid, siteId, lcid);
+            String contextString = PSLibrary.PSContextInfo.SerializeToString(contextInfo);
+            return contextString;
+        }
+    }
+}

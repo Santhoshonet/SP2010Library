@@ -1,0 +1,7 @@
+C:\Univar Development\Santhosh\SP2010Library\SP2010Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Univar Development\Santhosh\SP2010Library\SP2010Library\bin\Debug\SP2010Library.dll.config
+C:\Univar Development\Santhosh\SP2010Library\SP2010Library\bin\Debug\SP2010Library.dll
+C:\Univar Development\Santhosh\SP2010Library\SP2010Library\bin\Debug\SP2010Library.pdb
+C:\Univar Development\Santhosh\SP2010Library\SP2010Library\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Univar Development\Santhosh\SP2010Library\SP2010Library\obj\Debug\SP2010Library.dll
+C:\Univar Development\Santhosh\SP2010Library\SP2010Library\obj\Debug\SP2010Library.pdb
